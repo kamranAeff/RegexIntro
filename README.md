@@ -1,7 +1,7 @@
 # Regular expression syntax cheatsheet
 ###### [Qaydalı ifadələrdə sintaksis hiylələri](https://regexr.com/)
 
-<table style="100%">
+<table style="width: 100%">
 <tbody>
 <tr>
 <th>Element</th>
@@ -137,7 +137,7 @@
 
 
 <h2>Top 4 Regular Expression</h2>
-<table style="100%">
+<table style="width: 100%">
     <tbody>
         <tr><th>Email</th></tr>
         <tr><td>^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$</td></tr>
