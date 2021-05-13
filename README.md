@@ -84,11 +84,11 @@
 <td>Negative lookahead (axtarış tabe olan mətndə mütləq olması lazım olan simvol və ya mətnin olmamasını tələb edir)</td>
 </tr>
 <tr>
-<td>(?<!-)\d</td>
+<td>(?&lt;!-)\d</td>
 <td>Negative lookahead (Qarşısında "mənfi" işarəsi olmayan bir rəqəmi təmsil edir)</td>
 </tr>
 <tr>
-<td>(?<=-)\d</td>
+<td>(?&lt;=-)\d</td>
 <td>Positive lookahead (Qarşısında "mənfi" işarəsi olan bir rəqəmi təmsil edir)</td>
 </tr>
 <tr>
