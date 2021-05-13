@@ -136,47 +136,16 @@
 
 
 
-<h2>Top 4 Expression</h2>
+<h2>Top 4 Regular Expression</h2>
 <table>
     <tbody>
-        <tr>
-            <th>
-                Email
-            </th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-        
-<tr>
-        <th>
-                Phone Number
-            </th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-        
-<tr>
-            <th>
-                Name
-            </th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-        
-<tr>
-            <th>
-                Password
-            </th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
+        <tr><th>Email</th></tr>
+        <tr><td>^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$</td></tr>
+        <tr><th>Phone Number</th></tr>
+        <tr><td></td></tr>
+        <tr><th>Name</th></tr>
+        <tr><td></td></tr>
+        <tr><th>Password</th></tr>
+        <tr><td></td></tr>
     </tbody>
 </table>
