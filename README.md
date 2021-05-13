@@ -1,5 +1,5 @@
 # Regular expression syntax cheatsheet
-###### Qaydalı ifadələrdə sintaksis hiylələri
+###### [Qaydalı ifadələrdə sintaksis hiylələri](https://regexr.com/)
 
 <table>
 <tbody>
