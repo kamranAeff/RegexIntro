@@ -108,16 +108,8 @@
 <td>Rəqəm olmayan bir simvolu təmsil edir</td>
 </tr>
 <tr>
-<td>\f</td>
-<td>Matches a form-feed</td>
-</tr>
-<tr>
-<td>\n</td>
+<td>\n  or \r\n</td>
 <td>Yeni sətr təmsil edir</td>
-</tr>
-<tr>
-<td>\r</td>
-<td>Matches a carriage return</td>
 </tr>
 <tr>
 <td>\s</td>
@@ -140,4 +132,52 @@
 <td>Mətn simvollarından fərqli simvolları təmsil edir, "_" daxil deyil.Digər simvollara uyğunlaşmır</td>
 </tr>
 </tbody>
+</table>
+
+
+
+<h2>Top 4 Expression</h2>
+<table>
+    <tbody>
+        <tr>
+            <th>
+                Email
+            </th>
+        </tr>
+        <tr>
+            <td>
+            </td>
+        </tr>
+        
+<tr>
+        <th>
+                Phone Number
+            </th>
+        </tr>
+        <tr>
+            <td>
+            </td>
+        </tr>
+        
+<tr>
+            <th>
+                Name
+            </th>
+        </tr>
+        <tr>
+            <td>
+
+            </td>
+        </tr>
+        
+<tr>
+            <th>
+                Password
+            </th>
+        </tr>
+        <tr>
+            <td>
+            </td>
+        </tr>
+    </tbody>
 </table>
